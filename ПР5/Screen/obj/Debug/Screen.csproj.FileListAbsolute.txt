@@ -1,0 +1,12 @@
+D:\205\Screenshot (ПР 5)\Screen\bin\Debug\Screen.exe.config
+D:\205\Screenshot (ПР 5)\Screen\bin\Debug\Screen.exe
+D:\205\Screenshot (ПР 5)\Screen\bin\Debug\Screen.pdb
+D:\205\Screenshot (ПР 5)\Screen\obj\Debug\Screen.csproj.AssemblyReference.cache
+D:\205\Screenshot (ПР 5)\Screen\obj\Debug\Screen.csproj.SuggestedBindingRedirects.cache
+D:\205\Screenshot (ПР 5)\Screen\obj\Debug\Screen.Form1.resources
+D:\205\Screenshot (ПР 5)\Screen\obj\Debug\Screen.Properties.Resources.resources
+D:\205\Screenshot (ПР 5)\Screen\obj\Debug\Screen.ScreenShot.resources
+D:\205\Screenshot (ПР 5)\Screen\obj\Debug\Screen.csproj.GenerateResource.cache
+D:\205\Screenshot (ПР 5)\Screen\obj\Debug\Screen.csproj.CoreCompileInputs.cache
+D:\205\Screenshot (ПР 5)\Screen\obj\Debug\Screen.exe
+D:\205\Screenshot (ПР 5)\Screen\obj\Debug\Screen.pdb
