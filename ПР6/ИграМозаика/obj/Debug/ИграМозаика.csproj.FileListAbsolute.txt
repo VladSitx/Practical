@@ -1,0 +1,10 @@
+D:\205\Мозаика (ПР 6)\ИграМозаика\bin\Debug\ИграМозаика.exe.config
+D:\205\Мозаика (ПР 6)\ИграМозаика\bin\Debug\ИграМозаика.exe
+D:\205\Мозаика (ПР 6)\ИграМозаика\bin\Debug\ИграМозаика.pdb
+D:\205\Мозаика (ПР 6)\ИграМозаика\obj\Debug\ИграМозаика.csproj.AssemblyReference.cache
+D:\205\Мозаика (ПР 6)\ИграМозаика\obj\Debug\ИграМозаика.csproj.SuggestedBindingRedirects.cache
+D:\205\Мозаика (ПР 6)\ИграМозаика\obj\Debug\ИграМозаика.Properties.Resources.resources
+D:\205\Мозаика (ПР 6)\ИграМозаика\obj\Debug\ИграМозаика.csproj.GenerateResource.cache
+D:\205\Мозаика (ПР 6)\ИграМозаика\obj\Debug\ИграМозаика.csproj.CoreCompileInputs.cache
+D:\205\Мозаика (ПР 6)\ИграМозаика\obj\Debug\ИграМозаика.exe
+D:\205\Мозаика (ПР 6)\ИграМозаика\obj\Debug\ИграМозаика.pdb
